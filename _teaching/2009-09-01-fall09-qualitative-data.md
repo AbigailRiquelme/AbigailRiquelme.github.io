@@ -1,12 +1,12 @@
 ---
-title: "Econometría (2022)"
+title: "Metrics (2022)"
 collection: 
-teaching_type: "Materia de grado"
+teaching_type: "Grade"
 permalink:
 institution: "Universidad de San Andrés"
 date: 2009-09-01
-excerpt: "<i> Materia de grado, asistente de docencia</i><br/>
+excerpt: "<i> Grade, teacher assistant</i><br/>
 
 ---
 
-Econometría es una materia dirigida a alumnos de Economía. Se introducen los pricipales temas sobre teoría econométrica, además se realizan diversos ejercicios prácticos en Stata. 
+Metrics is a subject aimed at students of Economics. The main topics on econometric theory are introduced, as well as various practical exercises in Stata.
